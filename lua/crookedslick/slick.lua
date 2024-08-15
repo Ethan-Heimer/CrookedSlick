@@ -36,6 +36,8 @@ theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cred};
 theme.keyword.variable = {fg = corange};
+theme.keywords.definitions = {fg = cyellow};
+
 --theme.keyword.builtinConstant = {fg = cblue};
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
