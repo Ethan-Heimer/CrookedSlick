@@ -34,6 +34,11 @@ theme.editor.cursorColumn = {bg = backgroundTwo}
 theme.editor.lineNumber = {fg = cgray}
 theme.editor.indentLine = {fg = cgray}
 theme.editor.menu = {bg = backgroundTwo}
+theme.editor.error = {fg = cred}
+theme.editor.warning = {fg = cyellow}
+theme.editor.title = {fg = cred}
+theme.editor.search = {bg = cgreen, fg = "#FFFFFF"}
+theme.editor.nontext = {fg = cgray}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
