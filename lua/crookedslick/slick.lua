@@ -11,6 +11,7 @@ local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
 local cred = "#D16666"
+local corange = "#D9B26F"
 
 theme.name = "Slick"
 
@@ -34,6 +35,8 @@ theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cred};
+theme.keyword.variable = {fg = corange};
+theme.keyword.builtinConstant = {fg = cblue};
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
 theme.base.string = {fg = colorTwo, italic = true, underline = true}
