@@ -36,7 +36,7 @@ theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = corange};
 theme.keyword.define = {fg = cpurple};
-theme.keyword.variable = {fg = cyellow};
+theme.keyword.variable = {fg = cpurple};
 theme.keyword.definitions = {fg = cyellow};
 theme.keyword.namespace = {fg = cblue};
 theme.keyword.builtinConstant = {fg = cblue};
