@@ -37,7 +37,7 @@ theme.editor.indentLine = {fg = cgray}
 theme.editor.menu = {bg = backgroundTwo}
 theme.editor.error = {fg = cred}
 theme.editor.warning = {fg = cyellow}
-theme.editor.title = {fg = corange}
+theme.editor.title = {fg = cred}
 theme.editor.search = {bg = corange, fg = "#FFFFFF"}
 theme.editor.nontext = {fg = cgray}
 
