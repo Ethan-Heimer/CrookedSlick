@@ -33,6 +33,7 @@ theme.editor.colorColumn = {bg = backgroundTwo};
 theme.editor.cursorColumn = {bg = backgroundTwo}
 theme.editor.lineNumber = {fg = cgray}
 theme.editor.indentLine = {fg = cgray}
+theme.editor.menu = {bg = backgroundTwo}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
