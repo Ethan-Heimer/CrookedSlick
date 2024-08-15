@@ -6,10 +6,10 @@ local backgroundOne = "#1C1E21"
 local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
-local cblue = "#22386D"
+local cblue = "#284B63"
 local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
-local cgray = "#8F8F8F"
+local cgray = "#595959"
 
 theme.name = "Slick"
 
