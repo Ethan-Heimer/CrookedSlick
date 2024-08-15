@@ -25,7 +25,7 @@ theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
 theme.base.preproc = {fg = corange}
 theme.base.identifier = {fg = cred}
-theme.base.string = {fg = cyellow, underline = true;}
+theme.base.string = {fg = corange, underline = true;}
 theme.base.boolean = {fg = cpurple, underline = true;}
 
 theme.editor.background = {bg = backgroundOne};
