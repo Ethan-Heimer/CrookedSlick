@@ -1,8 +1,12 @@
 local crooked = require("crookedtheme")
 
 local theme = crooked.NewTheme();
+local backgroundOne = "#1C1E21"
 
 theme.name = "Slick"
+
+theme.editor.background = backgroundOne;
+
 
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
