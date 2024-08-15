@@ -40,7 +40,7 @@ theme.keyword.variable = {fg = cyellow};
 theme.keyword.definitions = {fg = cyellow};
 theme.keyword.namespace = {fg = cblue};
 theme.keyword.builtinConstant = {fg = cblue};
-theme.keyword.builtinFunction = {fg = cblue};
+theme.keyword.builtinMethod = {fg = cblue};
 theme.keyword.functionoperator = {fg = cblue};
 
 --[[
