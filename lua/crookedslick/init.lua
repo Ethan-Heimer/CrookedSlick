@@ -1,5 +1,3 @@
-local pastel = require("crookedpastel.pastel");
+local slick = require("crookedslick.slick");
 
-return {
-    pastel = pastel,
-}
+return slick
