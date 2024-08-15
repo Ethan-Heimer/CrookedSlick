@@ -9,6 +9,7 @@ local cgreen = "#AABD8C"
 local cblue = "#284B63"
 local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
+local cgray = "#CCCCCC"
 
 theme.name = "Slick"
 
@@ -17,6 +18,7 @@ theme.base.number = {fg = cpurple}
 theme.base.type = {fg = cblue}
 theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
+theme.base.statement = {fg = cgray}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
