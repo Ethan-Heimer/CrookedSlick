@@ -7,11 +7,12 @@ local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
 local cblue = "#284B63"
+local cpurple = "#BD75B8"
 
 theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
-
+theme.base.numberw = {fg = cpurple}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
