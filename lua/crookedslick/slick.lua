@@ -8,6 +8,7 @@ local backgroundTwo = "#131416"
 local cgreen = "#AABD8C"
 local cblue = "#2E7BB2"
 local cpurple = "#926AA0"
+local cpink = "#AD8FB7"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
 local cred = "#B75D69"
@@ -18,7 +19,7 @@ theme.name = "Slick"
 theme.base.comment = {fg = cgreen}
 theme.base.number = {fg = corange, underline = true}
 theme.base.type = {fg = cpurple, bold = true}
-theme.base.keyword = {fg = cpurple}
+theme.base.keyword = {fg = cpink}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
