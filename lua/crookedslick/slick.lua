@@ -36,9 +36,23 @@ theme.editor.indentLine = {fg = cgray}
 theme.editor.menu = {bg = backgroundTwo}
 theme.editor.error = {fg = cred}
 theme.editor.warning = {fg = cyellow}
-theme.editor.title = {fg = cred}
-theme.editor.search = {bg = cgreen, fg = "#FFFFFF"}
+theme.editor.title = {fg = corange}
+theme.editor.search = {bg = corange, fg = "#FFFFFF"}
 theme.editor.nontext = {fg = cgray}
+
+theme.netrw.dir = {fg = cyellow}
+theme.netrw.exe = {fg = cred}
+theme.netrw.symlink = {fg = cgreen}
+theme.netrw.version = {fg = cgreen}
+theme.netrw.gray = {fg = cgray}
+theme.netrw.date = {fg = corange}
+theme.netrw.time = {fg = corange}
+theme.netrw.comment = {fg = cgreen}
+theme.netrw.base = {fg = cgray}
+theme.netrw.change = {fg = cpurple}
+theme.netrw.cursorLine = {bg = backgroundTwo}
+theme.netrw.folder = {fg = cyellow}
+theme.netrw.image = {fg = cgreen}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
