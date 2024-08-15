@@ -21,6 +21,7 @@ theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
+theme.base.identifier = {fg = cred}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
