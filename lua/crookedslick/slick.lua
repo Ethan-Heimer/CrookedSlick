@@ -15,15 +15,16 @@ local cred = "#D16666"
 theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
-theme.base.number = {fg = cpurple}
+theme.base.number = {fg = cpurple, underline = true}
 theme.base.type = {fg = cpurple}
 theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
-theme.base.variable = {fg = cred}
 theme.base.preproc = {fg = cred}
---theme.base.identifier = {fg = cred}
+theme.base.identifier = {fg = cblue}
+theme.base.string = {fg = cpurple, underline = true;}
+theme.base.boolean = {fg = cpurple, underline = true;}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
