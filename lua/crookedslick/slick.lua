@@ -7,6 +7,7 @@ local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
 local cblue = "#2E7BB2"
+local clightBlue = "#6EA4BF"
 local cpurple = "#926AA0"
 local cpink = "#D897B8"
 local cyellow = "#F2CC8F"
@@ -59,7 +60,7 @@ theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cpurple};
-theme.keyword.variable = {fg = cpurple};
+theme.keyword.variable = {fg = clightBlue};
 theme.keyword.definitions = {fg = cblue};
 theme.keyword.namespace = {fg = cblue};
 theme.keyword.builtinConstant = {fg = cblue};
