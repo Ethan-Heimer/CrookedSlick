@@ -5,7 +5,7 @@ local backgroundOne = "#1C1E21"
 
 theme.name = "Slick"
 
-theme.editor.background = backgroundOne;
+--theme.editor.background = backgroundOne;
 
 
 --[[
