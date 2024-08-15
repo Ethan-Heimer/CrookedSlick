@@ -16,7 +16,7 @@ local corange = "#FFC15E"
 theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
-theme.base.number = {fg = cred, underline = true}
+theme.base.number = {fg = corange, underline = true}
 theme.base.type = {fg = cred, bold = true}
 theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
