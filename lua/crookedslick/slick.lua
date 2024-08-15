@@ -7,7 +7,7 @@ local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
 local cblue = "#2E7BB2"
-local cpurple = "#BD75B8"
+local cpurple = "#593F62"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
 local cred = "#B75D69"
