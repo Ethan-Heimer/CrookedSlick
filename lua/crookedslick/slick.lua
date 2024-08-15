@@ -16,7 +16,7 @@ theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
 theme.base.number = {fg = cpurple}
-theme.base.type = {fg = cblue}
+theme.base.type = {fg = cpurple}
 theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
@@ -27,7 +27,7 @@ theme.editor.colorColumn = {bg = backgroundTwo};
 theme.editor.cursorColumn = {bg = backgroundTwo}
 
 theme.keyword.modifier = {fg = cblue}
-
+theme.keyword.builtinType = {fg = cblue}
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
 theme.base.string = {fg = colorTwo, italic = true, underline = true}
