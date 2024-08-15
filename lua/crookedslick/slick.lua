@@ -18,7 +18,7 @@ theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
 theme.base.number = {fg = corange, underline = true}
-theme.base.type = {fg = cpurple, bold = true}
+theme.base.type = {fg = corange, bold = true}
 theme.base.keyword = {fg = cpink}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
