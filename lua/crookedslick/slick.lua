@@ -40,7 +40,7 @@ theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cpurple};
 theme.keyword.variable = {fg = cpurple};
-theme.keyword.definitions = {fg = cyellow};
+theme.keyword.definitions = {fg = cblue};
 theme.keyword.namespace = {fg = cblue};
 theme.keyword.builtinConstant = {fg = cblue};
 theme.keyword.builtinMethod = {fg = cblue};
