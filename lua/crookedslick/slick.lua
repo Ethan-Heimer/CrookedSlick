@@ -6,13 +6,16 @@ local backgroundOne = "#1C1E21"
 local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
+local cblue = "#284B63"
 
 theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
+theme.base.identifier = {fg = cblue}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
+theme.editor.cursorColumn = {bg = backgroundTwo}
 
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
