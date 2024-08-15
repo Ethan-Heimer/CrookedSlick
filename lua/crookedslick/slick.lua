@@ -27,6 +27,7 @@ theme.base.preproc = {fg = corange}
 theme.base.identifier = {fg = cred}
 theme.base.string = {fg = corange, underline = true;}
 theme.base.boolean = {fg = cpurple, underline = true;}
+theme.base.symbol = {fg = cgray}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
