@@ -32,7 +32,7 @@ theme.editor.cursorColumn = {bg = backgroundTwo}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
-theme.keyword.input = {fg = cyellow};
+theme.keyword.imort = {fg = cyellow};
 theme.keyword.define = {fg = cred};
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
