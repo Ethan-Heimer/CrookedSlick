@@ -31,6 +31,7 @@ theme.base.boolean = {fg = cpurple, underline = true;}
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
 theme.editor.cursorColumn = {bg = backgroundTwo}
+theme.editor.lineNumber = {fg = cgray}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
