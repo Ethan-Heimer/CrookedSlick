@@ -17,13 +17,13 @@ theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
 theme.base.number = {fg = corange, underline = true}
-theme.base.type = {fg = cred, bold = true}
+theme.base.type = {fg = cpurple, bold = true}
 theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
 theme.base.preproc = {fg = corange}
-theme.base.identifier = {fg = cpurple}
+theme.base.identifier = {fg = cred}
 theme.base.string = {fg = cyellow, underline = true;}
 theme.base.boolean = {fg = cpurple, underline = true;}
 
