@@ -7,7 +7,7 @@ local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
 local cblue = "#2E7BB2"
-local cpurple = "#593F62"
+local cpurple = "#71507C"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
 local cred = "#B75D69"
@@ -35,7 +35,7 @@ theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cred};
-theme.keyword.variable = {fg = corange};
+theme.keyword.variable = {fg = cyellow};
 theme.keyword.definitions = {fg = cyellow};
 
 --theme.keyword.builtinConstant = {fg = cblue};
