@@ -13,6 +13,7 @@ theme.name = "Slick"
 
 theme.base.comment = {fg = cgreen}
 theme.base.number = {fg = cpurple}
+theme.base.type = {fg = cblue}
 
 theme.editor.background = {bg = backgroundOne};
 theme.editor.colorColumn = {bg = backgroundTwo};
