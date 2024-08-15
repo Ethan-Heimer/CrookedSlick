@@ -32,6 +32,8 @@ theme.editor.cursorColumn = {bg = backgroundTwo}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
+theme.keyword.input = {fg = cyellow};
+theme.keyword.define = {fg = cred};
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
 theme.base.string = {fg = colorTwo, italic = true, underline = true}
