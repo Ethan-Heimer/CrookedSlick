@@ -11,7 +11,7 @@ local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
 local cred = "#D16666"
-local corange = "#D9B26F"
+local corange = "#FFC15E"
 
 theme.name = "Slick"
 
