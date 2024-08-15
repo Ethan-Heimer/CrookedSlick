@@ -41,7 +41,7 @@ theme.editor.title = {fg = cred}
 theme.editor.search = {bg = corange, fg = "#FFFFFF"}
 theme.editor.nontext = {fg = cgray}
 
-theme.netrw.dir = {fg = cyellow}
+--theme.netrw.dir = {fg = cyellow}
 theme.netrw.exe = {fg = cred}
 theme.netrw.symlink = {fg = cgreen}
 theme.netrw.version = {fg = cgreen}
