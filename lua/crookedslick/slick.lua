@@ -36,7 +36,7 @@ theme.keyword.builtinType = {fg = cblue}
 theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cred};
 theme.keyword.variable = {fg = corange};
-theme.keywords.definitions = {fg = cyellow};
+theme.keyword.definitions = {fg = cyellow};
 
 --theme.keyword.builtinConstant = {fg = cblue};
 --[[
