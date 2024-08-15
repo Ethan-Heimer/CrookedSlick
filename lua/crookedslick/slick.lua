@@ -41,7 +41,8 @@ theme.keyword.definitions = {fg = cyellow};
 theme.keyword.namespace = {fg = cblue};
 theme.keyword.builtinConstant = {fg = cblue};
 theme.keyword.builtinFunction = {fg = cblue};
-theme.keyword.operator = {fg = cblue};
+theme.keyword.functionoperator = {fg = cblue};
+
 --[[
 theme.base.number = {fg = colorSeven, underline = true}
 theme.base.string = {fg = colorTwo, italic = true, underline = true}
