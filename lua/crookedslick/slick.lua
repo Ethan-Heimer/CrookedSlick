@@ -38,6 +38,7 @@ theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cred};
 theme.keyword.variable = {fg = cyellow};
 theme.keyword.definitions = {fg = cyellow};
+theme.keyword.namespace = {fg = cblue};
 
 --theme.keyword.builtinConstant = {fg = cblue};
 --[[
