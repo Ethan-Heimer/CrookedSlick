@@ -34,7 +34,7 @@ theme.editor.cursorColumn = {bg = backgroundTwo}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
-theme.keyword.import = {fg = cyellow};
+theme.keyword.import = {fg = corange};
 theme.keyword.define = {fg = cred};
 theme.keyword.variable = {fg = cyellow};
 theme.keyword.definitions = {fg = cyellow};
