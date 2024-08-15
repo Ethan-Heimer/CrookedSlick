@@ -22,7 +22,7 @@ theme.base.keyword = {fg = cpurple}
 theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
-theme.base.preproc = {fg = cred}
+theme.base.preproc = {fg = corange}
 theme.base.identifier = {fg = cpurple}
 theme.base.string = {fg = cyellow, underline = true;}
 theme.base.boolean = {fg = cpurple, underline = true;}
