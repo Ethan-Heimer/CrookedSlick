@@ -36,7 +36,7 @@ theme.editor.indentLine = {fg = cgray}
 
 theme.keyword.modifier = {fg = cblue}
 theme.keyword.builtinType = {fg = cblue}
-theme.keyword.import = {fg = corange};
+theme.keyword.import = {fg = cyellow};
 theme.keyword.define = {fg = cpurple};
 theme.keyword.variable = {fg = cpurple};
 theme.keyword.definitions = {fg = cyellow};
