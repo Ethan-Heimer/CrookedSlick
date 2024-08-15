@@ -6,7 +6,7 @@ local backgroundOne = "#1C1E21"
 local backgroundTwo = "#131416"
 
 local cgreen = "#AABD8C"
-local cblue = "#24608A"
+local cblue = "#2E7BB2"
 local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
 local cgray = "#898989"
