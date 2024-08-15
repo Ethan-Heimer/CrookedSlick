@@ -9,7 +9,7 @@ local cgreen = "#AABD8C"
 local cblue = "#284B63"
 local cpurple = "#BD75B8"
 local cyellow = "#F2CC8F"
-local cgray = "#595959"
+local cgray = "#898989"
 
 theme.name = "Slick"
 
