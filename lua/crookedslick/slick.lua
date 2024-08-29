@@ -25,7 +25,7 @@ theme.base.method = {fg = cyellow}
 theme.base.statement = {fg = cgray}
 theme.base.constant = {fg = cred, underline = true}
 theme.base.preproc = {fg = corange}
---theme.base.identifier = {fg = cred}
+theme.base.identifier = {fg = cred}
 theme.base.string = {fg = corange, underline = true;}
 theme.base.boolean = {fg = cpurple, underline = true;}
 theme.base.symbol = {fg = cgray}
@@ -67,7 +67,7 @@ theme.keyword.builtinConstant = {fg = cblue};
 theme.keyword.builtinMethod = {fg = cblue};
 theme.keyword.functionoperator = {fg = cblue};
 theme.keyword.method = {fg = cblue};
-
+theme.keyword.parameter = {fg = cred};
 function Test()
    print("Hello"); 
 end
