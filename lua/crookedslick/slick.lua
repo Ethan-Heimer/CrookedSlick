@@ -67,7 +67,7 @@ theme.keyword.builtinConstant = {fg = cblue};
 theme.keyword.builtinMethod = {fg = cblue};
 theme.keyword.functionoperator = {fg = cblue};
 theme.keyword.method = {fg = cblue};
-theme.keyword.parameter = {fg = cred};
+--theme.keyword.parameter = {fg = cred};
 theme.keyword.escapeChar = {fg = cred};
 
 function Test()
